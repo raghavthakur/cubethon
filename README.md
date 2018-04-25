@@ -1,2 +1,2 @@
-# how-to-make-a-video-game
-First Unity Project.
+# Cubethon Game
+First Unity Project made using Unity 5.5.0.
