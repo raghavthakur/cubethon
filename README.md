@@ -1,6 +1,4 @@
 # Cubethon Game
 First Unity Project.
 
-
-Windows Installer
-[Download](../Cubethon/Builds/Windows/Installer/Cubethon Setup (x86).exe)
+[Download Windows Installer](Cubethon/Builds/Windows/Installer/Cubethon%20Setup%20(x86).exe)
