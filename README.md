@@ -1,2 +1,6 @@
 # Cubethon Game
-First Unity Project made using Unity 2017.2.
+First Unity Project.
+
+
+Windows Installer
+[Download](../Cubethon/Builds/Windows/Installer/Cubethon Setup (x86).exe)
