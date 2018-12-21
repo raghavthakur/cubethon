@@ -1,2 +1,2 @@
 # Cubethon Game
-First Unity Project made using Unity 5.5.0.
+First Unity Project made using Unity 2017.2.
